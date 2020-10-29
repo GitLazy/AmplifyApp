@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b50a5bb-9534-4a1b-bf7c-727fc20795c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jZH4nm6lDFtTlnkIPQlMgHFyam" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b50a5bb-9534-4a1b-bf7c-727fc20795c7" name="Default Changelist" comment="" />
+      <created>1604004505299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604004505299</updated>
+      <workItem from="1604004506576" duration="1906000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit - React project for AWS">
+      <created>1604006063922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604006063922</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit - React project for AWS">
+      <created>1604006358831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604006358831</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit - React project for AWS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit - React project for AWS" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="132" width="801" height="901" key="CommitChangelistDialog2" timestamp="1604006358671">
+      <screen x="0" y="0" width="1920" height="1168" />
+    </state>
+    <state x="554" y="132" width="801" height="901" key="CommitChangelistDialog2/0.0.1920.1168@0.0.1920.1168" timestamp="1604006358671" />
+    <state x="100" y="99" width="1720" height="968" key="DiffContextDialog" timestamp="1604006413810">
+      <screen x="0" y="0" width="1920" height="1168" />
+    </state>
+    <state x="100" y="99" width="1720" height="968" key="DiffContextDialog/0.0.1920.1168@0.0.1920.1168" timestamp="1604006413810" />
+    <state width="1897" height="316" key="GridCell.Tab.0.bottom" timestamp="1604004884394">
+      <screen x="0" y="0" width="1920" height="1168" />
+    </state>
+    <state width="1897" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1168@0.0.1920.1168" timestamp="1604004884394" />
+    <state width="1897" height="316" key="GridCell.Tab.0.center" timestamp="1604004884393">
+      <screen x="0" y="0" width="1920" height="1168" />
+    </state>
+    <state width="1897" height="316" key="GridCell.Tab.0.center/0.0.1920.1168@0.0.1920.1168" timestamp="1604004884393" />
+    <state width="1897" height="316" key="GridCell.Tab.0.left" timestamp="1604004884393">
+      <screen x="0" y="0" width="1920" height="1168" />
+    </state>
+    <state width="1897" height="316" key="GridCell.Tab.0.left/0.0.1920.1168@0.0.1920.1168" timestamp="1604004884393" />
+    <state width="1897" height="316" key="GridCell.Tab.0.right" timestamp="1604004884393">
+      <screen x="0" y="0" width="1920" height="1168" />
+    </state>
+    <state width="1897" height="316" key="GridCell.Tab.0.right/0.0.1920.1168@0.0.1920.1168" timestamp="1604004884393" />
+    <state x="456" y="2" width="1007" height="946" key="SettingsEditor" timestamp="1604005703032">
+      <screen x="0" y="0" width="1920" height="1168" />
+    </state>
+    <state x="456" y="2" width="1007" height="946" key="SettingsEditor/0.0.1920.1168@0.0.1920.1168" timestamp="1604005703032" />
+    <state x="555" y="305" width="800" height="555" key="Vcs.Push.Dialog.v2" timestamp="1604006413428">
+      <screen x="0" y="0" width="1920" height="1168" />
+    </state>
+    <state x="555" y="305" width="800" height="555" key="Vcs.Push.Dialog.v2/0.0.1920.1168@0.0.1920.1168" timestamp="1604006413428" />
+  </component>
+</project>
